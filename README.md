@@ -1,8 +1,8 @@
 ## “Optimizing South Korea’s Strategic Portfolio under U.S.–China Competition
 — A Quantitative Analysis of Industrial, Security, and Supply Chain Risks”
 
-## 「미·중 경쟁 환경에서 대한민국의 전략 포트폴리오 최적화
-— 산업·안보·공급망 리스크의 정량 분석」
+## 「미·중 경쟁 환경에서 대한민국의 전략 포트폴리오 최적화」
+— 산업·안보·공급망 리스크의 정량 분석
 
 ---
 ### MOTIVATION
