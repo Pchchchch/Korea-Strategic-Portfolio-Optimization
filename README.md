@@ -1,1 +1,14 @@
-# korea-strategic-portfolio-optimization
+## “Optimizing South Korea’s Strategic Portfolio under U.S.–China Competition
+— A Quantitative Analysis of Industrial, Security, and Supply Chain Risks”
+
+## 「미·중 경쟁 환경에서 대한민국의 전략 포트폴리오 최적화
+— 산업·안보·공급망 리스크의 정량 분석」
+
+---
+### MOTIVATION
+
+평소에 시도해보고 싶던 주제였기 때문에, 여러 요소들을 종합하여 한번 도전해보고자 한다. 비록 해당 분야의 전공자는 아니고 데이터 사이언스를 접한 지도 오래되지 않았지만, 완벽함보다는 첫 삽을 뜨고 이후에 발전시켜 나가자는 생각으로 본 작업을 진행하기로 결정했다.
+
+물론 과정 전반에서 미흡한 부분이 많을 수 있고, 경우에 따라 결과가 기대에 미치지 못할 수도 있다. 그럼에도 불구하고 이번 작업은 내가 고민해왔던 생각들을 실제로 투영해 보고, 어떤 관점에서 문제를 설계하고 어떻게 접근했는지를 보여주는 데에 의미가 있다고 생각한다.  
+
+그러한 맥락에서 전체적인 설계와 진행 과정을 중심으로 봐주시면 감사하겠습니다. 
