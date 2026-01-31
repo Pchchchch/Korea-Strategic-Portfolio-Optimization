@@ -190,14 +190,14 @@
 
 
 
-/data
+/data  
 ├─ raw/ # 원천 데이터
-├─ processed/ # 전처리된 데이터
-/src # 분석 및 모델링 코드
-/notebooks # EDA 및 실험 노트북
-/reports # 결과 요약 및 시각화
-PROJECT_CONTEXT.md # 프로젝트 컨텍스트 문서
-README.md
+├─ processed/ # 전처리된 데이터    
+/src # 분석 및 모델링 코드    
+/notebooks # EDA 및 실험 노트북    
+/reports # 결과 요약 및 시각화    
+PROJECT_CONTEXT.md # 프로젝트 컨텍스트 문서    
+README.md  
 
 
 ---
