@@ -1,5 +1,5 @@
-## “Optimizing South Korea’s Strategic Portfolio under U.S.–China Competition
-— A Quantitative Analysis of Industrial, Security, and Supply Chain Risks”
+## “Mapping South Korea’s Strategic Position amid U.S.–China Hegemonic Rivalry
+— Data-Driven Insights from Comparative Cases of Strategic Hedging”
 
 ## 「미·중 패권 경쟁 속 대한민국의 전략적 위치 분석」
 — 실리외교 국가 비교를 통한 데이터 기반 시사점
