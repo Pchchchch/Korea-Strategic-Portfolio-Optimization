@@ -1,4 +1,4 @@
-## “Mapping South Korea’s Strategic Position amid U.S.–China Hegemonic Rivalry
+## “Mapping South Korea’s Strategic Position amid U.S.–China Hegemonic Rivalry"
 — Data-Driven Insights from Comparative Cases of Strategic Hedging”
 
 ## 「미·중 패권 경쟁 속 대한민국의 전략적 위치 분석」
